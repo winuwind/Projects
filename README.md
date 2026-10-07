@@ -13,8 +13,8 @@
 6. [Сервис плотности населения](https://github.com/geocommerce-team/geocommerce-population-service) из [проекта `Geocommerce`](https://github.com/geocommerce-team) - написан на `Python`.
 7. [Приложение `Persea` для `Android`](https://github.com/winuwind/persea-frontend) из проекта `Persea` - написано на `Kotlin` с использованием `JetPack Compose`.
 
-О проекте `Geocommerce` можно прочитать [тут]().
+О проекте `Geocommerce` можно прочитать [тут](https://github.com/winuwind/Projects/blob/assets/P-Cources.OOAD.Report.GeoCommerce.rtf).
 
 Проект `Persea` - Сервис для получения информации о продукции (состав, критические вещества, вредные вещества, полезные вещества, рейтинг продукта, система рекомендаций продуктов).
 
-Об информационной системе зоопарка можно прочитать [тут]().
+Об информационной системе зоопарка можно прочитать [тут](https://github.com/winuwind/Projects/blob/assets/Отчёт_БД.docx).
